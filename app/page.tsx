@@ -1,7 +1,6 @@
 "use client"
 
-import { Box, Button, Container, Flex, Heading, Input, Link, Text, Image, Stack, Icon } from "@chakra-ui/react";
-import { FaPlay } from "react-icons/fa";
+import { Box, Button, Container, Flex, Heading, Text, Image, Stack, Icon } from "@chakra-ui/react";
 import { BsCheckCircleFill } from "react-icons/bs";
 
 export default function HeroSection() {
