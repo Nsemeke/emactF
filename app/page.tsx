@@ -91,7 +91,7 @@ export default function HeroSection() {
                                 </Button>
                                 
                                 <Flex align="center" gap={2}>
-                                    <Icon as={BsCheckCircleFill} color="green.500" boxSize={4} />
+                                    <Icon as={BsCheckCircleFill} color="#00BF03" boxSize={4} />
                                     <Text 
                                         color="#1155B2" 
                                         fontSize={{ base: "xs", md: "md" }}
